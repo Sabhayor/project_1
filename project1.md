@@ -91,6 +91,19 @@
 ![PHP Index](./images/php-index.png)
 
 
+### Side Self Study
+
+[Software Development Life Cycle (SDLC)](https://docs.google.com/document/d/1KNe7m2LJzjwW1r7ZMi16IrsXqgaIUhaDZGhMUFWst4E/edit?usp=sharing
+)
+
+[LAMP Stack](https://docs.google.com/document/d/1ymKhrFhZioEBeI3bx8tR5lVY0luOFR0XuEv80HWxBjk/edit?usp=sharing
+)
+
+[Linux chmod and chown](https://docs.google.com/document/d/1W7yAM9dxoHyT-Gflyitq7lMus_0TJSFo22emUnV9R8A/edit?usp=sharing
+)
+
+[TCP and UDP meaning & differences](https://docs.google.com/document/d/1vrrK4euwNnqZJLqKQBs3GixQ0KRsJGKlyJTmedFnhcw/edit?usp=sharing
+)
 
 
 
