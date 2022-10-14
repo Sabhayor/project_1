@@ -1,2 +1,2 @@
 # project_1
-DevOps Project 1
+LAMP Stack
